@@ -1,0 +1,64 @@
+.body {
+    -fx-font-size: 48px;
+    -fx-font-family: Tahoma;
+
+}
+
+#kolor {
+    -fx-background-color: red;
+    -fx-font-weight: bold;
+}
+
+#zrobione {
+    -fx-background-color: #80db69;
+    -fx-font-size: 40px;
+    -fx-font-weight: normal;
+}
+
+.text-field{
+    -fx-fill: green;
+}
+#niezrobione {
+    -fx-background-color: white;
+    -fx-font-weight: normal;
+}
+
+.table-view .column-header{
+    -fx-font-size: 23px;
+}
+
+.table-view .table-row-cell {
+
+    -fx-border-color: black;
+    -fx-border-radius: 2px;
+    -fx-text-alignment: center;
+}
+
+.czcionka {
+    -fx-text-fill: black;
+    -fx-alignment: center;
+}
+
+.wrap {
+    -fx-text-fill: black;
+    -fx-wrap-text: true;
+    -fx-text-alignment: center;
+}
+.table-view .scroll-bar * {
+    -fx-min-width: 0;
+    -fx-pref-width: 0;
+    -fx-max-width: 0;
+
+    -fx-min-height: 0;
+    -fx-pref-height: 0;
+    -fx-max-height: 0;
+}
+
+.text-field {
+    -fx-fill: red;
+}
+
+
+
+
+
