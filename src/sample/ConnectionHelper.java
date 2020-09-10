@@ -5,10 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionHelper {
-
-//    private static String url = "jdbc:mysql://localhost:3306/urlop?serverTimezone = ECT";
-//    private static String user = "root";
-//    private static String passwd = "admin";
+    
     private static String url = "jdbc:mysql://url";
     private static String user = "user";
     private static String passwd = "pass";
