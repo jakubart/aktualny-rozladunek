@@ -11,3 +11,5 @@ Aplikacja wyświetla w formie tabelki listę samochodów czekających w kolejce.
 * SQL
 
 ## Przykładowe zdjęcia
+
+![Img](./img/tabelka.PNG)
