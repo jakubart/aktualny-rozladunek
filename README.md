@@ -12,4 +12,4 @@ Aplikacja wyświetla w formie tabelki listę samochodów czekających w kolejce.
 
 ## Przykładowe zdjęcia
 
-![Img](./img/tabelka.PNG)
+![Img](./img/tabelka.png)
